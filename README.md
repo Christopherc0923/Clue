@@ -3,7 +3,8 @@ Cluedo Game Clone in Python
 This Python script simulates a simplifed cludedo game.
 
 Overview
-6 Player Cluedo game where each player controls a character.
+
+6 Player Cluedogame where each player controls a character.
 Players have the option to move to different rooms and make either a suggestion or an accusation.
 Suggestions help player gain more information about the solution.
 Accusations allow players to end the game, but eliminates the player if the accusation is incorrect.
